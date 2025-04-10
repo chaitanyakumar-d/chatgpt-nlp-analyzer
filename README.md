@@ -1,7 +1,7 @@
 # 🧠 ChatGPT NLP Analyzer
 
 A Streamlit-powered app that uses the OpenAI ChatGPT API to analyze and summarize PDF/text content. Upload documents, extract summaries and keywords, analyze sentiment, and ask questions conversationally — all powered by AI!
-
+![screenshot](assets/demo.png)
 
 ## 🔍 Features
 - 📄 Upload PDF, DOCX or Audio
