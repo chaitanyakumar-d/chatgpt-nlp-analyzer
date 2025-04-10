@@ -30,5 +30,26 @@ streamlit run app/app.py
 - python-docx
 - dotenv
 
+  
+## 🔐 Setting Up Your OpenAI API Key
+
+To use this app, you need to set your OpenAI API key. Follow the steps below:
+
+### 1. **Get Your API Key**
+
+- Visit [OpenAI Dashboard](https://platform.openai.com/account/api-keys)
+- Click **Create new secret key**
+- Copy the key (starts with `sk-...`)
+
+---
+
+### 2. **Create a `.env` File**
+
+At the root of the project, create a file named `.env` (if it doesn't already exist), and add the following line:
+
+```bash
+OPENAI_API_KEY=your-api-key-here
+
+
 ## 🙌 Author
 Built with ❤️ by [Chaitanya Kumar Dasari](https://github.com/chaitanyakumar-d)
