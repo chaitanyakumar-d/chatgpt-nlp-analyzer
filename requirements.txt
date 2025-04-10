@@ -5,4 +5,4 @@ PyMuPDF
 whisper
 python-docx
 pandas
-
+pytest
