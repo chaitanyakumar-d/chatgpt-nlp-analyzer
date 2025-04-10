@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+openai
+PyMuPDF
+whisper
+python-docx
+pandas
+
