@@ -49,6 +49,7 @@ At the root of the project, create a file named `.env` (if it doesn't already ex
 
 ```bash
 OPENAI_API_KEY=your-api-key-here
+```
 
 
 ### 🙌 Author
