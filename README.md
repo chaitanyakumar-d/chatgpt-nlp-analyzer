@@ -51,5 +51,5 @@ At the root of the project, create a file named `.env` (if it doesn't already ex
 OPENAI_API_KEY=your-api-key-here
 
 
-## 🙌 Author
+### 🙌 Author
 Built with ❤️ by [Chaitanya Kumar Dasari](https://github.com/chaitanyakumar-d)
