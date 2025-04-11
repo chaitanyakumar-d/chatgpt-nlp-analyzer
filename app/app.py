@@ -13,7 +13,6 @@ from scripts.chatgpt_utils import summarize_text, extract_keywords, analyze_sent
 import streamlit as st
 from scripts.chatgpt_utils import summarize_text, extract_keywords, analyze_sentiment, ask_question_from_text
 import fitz  # PyMuPDF
-import os
 from dotenv import load_dotenv
 load_dotenv()
 
